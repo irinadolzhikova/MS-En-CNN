@@ -10,7 +10,7 @@ See the references: [1] K. Zhang, N. Robinson, S.-W. Lee, and C. Guan, “Adapti
 
 Examples of the base classifiers for test subject 46 and 47 are provided to reproduce the results.
 
-Subject-independent (SI) decoding accuracy results for each test_subject could be seen in "SI_evaluationResults_for_each_test_subject.pdf" file.
+Subject-independent (SI) decoding accuracy results for each test_subject could be seen in   Table S1 of "SI_evaluationResults_for_each_test_subject.pdf" file.
 
 Table S1 shows the subject-independent decoding accuracy results for each individual subject for each of the
 following scenarios: 1) each phase (offline and online) and session (s1 and s2) separately (columns 1-4); 

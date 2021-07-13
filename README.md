@@ -18,6 +18,6 @@ See the references:
    Human Brain Mapping , Aug. 2017. Online: http://dx.doi.org/10.1002/hbm.23730
 
 
-'.pt' files are examples of the base classifier models that were trained based on [1] using 3fold-CV and are saved as S_{test_subject}_cv{K}.pt, where {test_subject} is the held-out subject that is used for SI evaluation, {K} is = 0,1,2 is the K in K-fold CV.
+'.pt' files are examples of the base classifier models that were trained based on [1] using 3fold-CV and are saved as S_{test_subject}_cv{K}.pt, where {test_subject} is the held-out subject that is used for SI evaluation, {K} is = 0,1,2 is the K in 3-fold CV.
 
 Examples of the base classifiers for test subject 46 and 47 are provided to reproduce the results. 
